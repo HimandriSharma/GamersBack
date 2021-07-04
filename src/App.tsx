@@ -30,14 +30,9 @@ function App() {
 
   return (
     <div className="App">
-      <header className="App-header">
         <div  style={{display:'flex',flexDirection:'row',height:'100vh',width:'100vw',justifyContent:'center',alignContent:'center',alignItems:'center'}}>
         <Grids content={content}/>
         </div>
-        <div style={{fontFamily:'PTSansBold'}}>
-          <b>Hello</b>
-        </div>
-      </header>
     </div>
   );
 }

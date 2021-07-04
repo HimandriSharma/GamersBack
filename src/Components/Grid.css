@@ -1,4 +1,26 @@
 .head{
     font-family: 'PTSansBold';
     color: white;
+    font-size: calc(20px + 2vmin);
+    margin: 2vmin;
+}
+.body{
+    color: #68667E;
+    font-size: 3vmin;
+    font-family: 'PTSans';
+    margin: 3vmin;
+    padding: 3vmin;
+}
+.number{
+    color: white;
+    font-size: calc(15px + 2vmin);
+    font-family: 'PTSansBold'
+}
+.tag{
+    color: #68667E;
+    font-size: calc(1px + 2vmin);
+    font-family: 'PTSansBold';
+}
+.space{
+    margin:2vmin;  
 }
