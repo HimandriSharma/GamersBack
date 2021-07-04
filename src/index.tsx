@@ -2,8 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-
-
+import './fonts/PTSans-Regular.ttf';
+import './fonts/PTSans-Bold.ttf';
+import './fonts/BubblegumSans-Regular.ttf'
 ReactDOM.render(
   <React.StrictMode>
     <App />
