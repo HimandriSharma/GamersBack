@@ -18,7 +18,7 @@ function App() {
   const [content] = useState<IState["content"]>(
     [{
       title:"Fetch insights that help your business grow more.",
-      sub:"Discover the benefits of data analytics and make better decisions regarding revenue, customer experience, and overall efficiency with performance of employees and growth in business. ",
+      sub:"Explore the benefits of data analytics and make better decisions regarding revenue, customer experience, and overall efficiency with performance of employees and growth in business. ",
       companies: 10,
       templates: 314,
       queries: 12,
