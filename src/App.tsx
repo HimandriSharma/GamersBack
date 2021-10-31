@@ -17,7 +17,7 @@ function App() {
 
   const [content] = useState<IState["content"]>(
     [{
-      title:"Get insights that help your business grow.",
+      title:"Get insights that help your business grow more.",
       sub:"Discover the benefits of data analytics and make better decisions regarding revenue, customer experience, and overall efficiency. ",
       companies: 10,
       templates: 314,
